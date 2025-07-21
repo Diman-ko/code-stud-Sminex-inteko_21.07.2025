@@ -1,0 +1,28 @@
+.cards-list {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+
+.cards-list__item {
+    width: calc((100% - 30px) / 2);
+}
+
+.card {
+    background-color: #F2F3EE;
+    padding: 30px;
+    border-radius: 20px;
+}
+
+.card__info {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 30px;
+}
+
+
