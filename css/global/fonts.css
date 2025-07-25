@@ -10,7 +10,7 @@
 @font-face {
     font-family: "IBM Plex Sans";
     src: url("../../fonts/IBMPlexSans-Light.woff2") format("woff2"),
-    url("../../fonts/IBMPlexSans-ExtraLight.woff") format("woff");
+    url("../../fonts/IBMPlexSans-Light.woff") format("woff");
     font-style: normal;
     font-weight: 300;
     font-display: swap;
