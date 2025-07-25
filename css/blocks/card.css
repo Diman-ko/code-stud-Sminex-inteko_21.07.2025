@@ -1,11 +1,14 @@
 
 .card {
-    flex: 1;
     display: flex;
     flex-direction: column;
     background-color: #F2F3EE;
     padding: 30px;
     border-radius: 20px;
+}
+
+.card--center  .card__description {
+    text-align: center;
 }
 
 .card__info {
